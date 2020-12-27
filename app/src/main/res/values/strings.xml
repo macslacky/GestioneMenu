@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GestioneMenu</string>
+    <string name="menu01">Voce 1</string>
+    <string name="menu02">Voce 2</string>
+    <string name="menu03">Voce 3</string>
+
+    <string name="option01">Opzione 1</string>
+    <string name="option02">Opzione 2</string>
+    <string name="option03">Opzione 3</string>
+
+    <string name="popup01">Popup 1</string>
+    <string name="popup02">Popup 2</string>
+    <string name="popup03">Popup 3</string>
+</resources>
